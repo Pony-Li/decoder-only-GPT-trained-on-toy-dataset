@@ -6,4 +6,4 @@ This repository a detailed implementation of Andrej Karpathy's video on youtube(
                                                                                                                                                           ---Andrej Karpathy
 ### code structure
 
-See [gpt-dev.ipynb](./[gpt-dev.ipynb) for detailed imformation on how to train a decoder-only GPT on a toy dataset([tinyShakespeare.txt](./tinyShakespeare.txt)).
+See [gpt-dev.ipynb](./gpt-dev.ipynb) for detailed imformation on how to train a decoder-only GPT on a toy dataset([tinyShakespeare.txt](./tinyShakespeare.txt)).
