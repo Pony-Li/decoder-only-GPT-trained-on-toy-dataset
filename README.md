@@ -1,4 +1,4 @@
-# decoder only GPT trained on toy dataset
+# decoder only baby GPT trained on toy dataset
 
 This repository is a detailed implementation of Andrej Karpathy's video on youtube(https://www.youtube.com/watch?v=kCc8FmEb1nY).
 
